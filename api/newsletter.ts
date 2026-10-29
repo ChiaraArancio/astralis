@@ -1,4 +1,4 @@
-import type { ApiRequest, ApiResponse } from './_types';
+import type { ApiRequest, ApiResponse } from './_types.js';
 
 /**
  * Fonction serverless d'inscription à la newsletter (Vercel).

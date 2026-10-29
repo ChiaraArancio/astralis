@@ -1,4 +1,4 @@
-import type { ApiRequest, ApiResponse } from '../_types';
+import type { ApiRequest, ApiResponse } from '../_types.js';
 
 /**
  * Préparation Stripe — endpoint volontairement fermé par défaut.
