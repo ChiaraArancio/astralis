@@ -69,5 +69,5 @@ export async function subscribeToNewsletter(email: string): Promise<ServiceResul
 }
 
 export function mailtoLink(subject: string): string {
-  return `mailto:astralis.spiritalite@gmail.com?subject=${encodeURIComponent(subject)}`;
+  return `mailto:astralis.spiritualite@gmail.com?subject=${encodeURIComponent(subject)}`;
 }

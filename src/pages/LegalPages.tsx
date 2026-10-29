@@ -71,7 +71,7 @@ export function MentionsPage() {
         </p>
         <p>
           Responsable de la publication : <strong>[À compléter]</strong>. Contact :{' '}
-          <a href="mailto:astralis.spiritalite@gmail.com">astralis.spiritalite@gmail.com</a>.
+          <a href="mailto:astralis.spiritualite@gmail.com">astralis.spiritualite@gmail.com</a>.
         </p>
       </section>
       <section>
@@ -153,7 +153,7 @@ export function PrivacyPage() {
           transmise à notre prestataire d’envoi Resend. L’inscription est facultative et n’est pas
           nécessaire pour utiliser les calculateurs. Vous pouvez vous désinscrire à tout moment via
           le lien présent dans chaque message ou en écrivant à{' '}
-          <a href="mailto:astralis.spiritalite@gmail.com">astralis.spiritalite@gmail.com</a>.
+          <a href="mailto:astralis.spiritualite@gmail.com">astralis.spiritualite@gmail.com</a>.
         </p>
         <p>
           Dans cette version de préproduction, le service d’envoi peut ne pas être configuré. Dans ce
@@ -182,7 +182,7 @@ export function PrivacyPage() {
           Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation et
           d’opposition sur les données vous concernant, dans les conditions prévues par le RGPD. Pour
           exercer ces droits, écrivez à{' '}
-          <a href="mailto:astralis.spiritalite@gmail.com">astralis.spiritalite@gmail.com</a>. Les
+          <a href="mailto:astralis.spiritualite@gmail.com">astralis.spiritualite@gmail.com</a>. Les
           données de naissance n’étant pas conservées côté serveur, leur suppression se fait
           directement dans votre navigateur.
         </p>
@@ -260,7 +260,7 @@ export function CgvPage() {
         <h2>Contact</h2>
         <p>
           Pour toute question :{' '}
-          <a href="mailto:astralis.spiritalite@gmail.com">astralis.spiritalite@gmail.com</a>.
+          <a href="mailto:astralis.spiritualite@gmail.com">astralis.spiritualite@gmail.com</a>.
         </p>
       </section>
     </LegalShell>
@@ -355,9 +355,9 @@ export function EthicsPage() {
         <h2>Contact & signalement</h2>
         <p>
           Pour signaler une erreur de calcul, une incohérence ou un problème d’accessibilité :{' '}
-          <a href="mailto:astralis.spiritalite@gmail.com" className="inline-flex items-center gap-1.5">
+          <a href="mailto:astralis.spiritualite@gmail.com" className="inline-flex items-center gap-1.5">
             <Mail className="h-4 w-4" aria-hidden="true" />
-            astralis.spiritalite@gmail.com
+            astralis.spiritualite@gmail.com
           </a>
           . Précisez la date, l’heure, le lieu et le résultat observé, sans joindre de document
           d’identité.
