@@ -39,7 +39,7 @@ export function Footer() {
             </p>
             <div className="flex items-center gap-3">
               <a
-                href="mailto:astrales.spiritalite@gmail.com"
+                href="mailto:astralis.spiritalite@gmail.com"
                 aria-label="Écrire à Astralis"
                 className="flex h-9 w-9 items-center justify-center rounded-full bg-surface-container text-on-surface-variant transition-colors hover:bg-surface-container-high hover:text-primary"
               >
@@ -55,11 +55,11 @@ export function Footer() {
               <span className="text-[0.72rem] text-outline">Calculs locaux, sans base de données</span>
             </div>
             <a
-              href="mailto:astrales.spiritalite@gmail.com"
+              href="mailto:astralis.spiritalite@gmail.com"
               className="inline-flex items-center gap-2 text-small text-on-surface-variant transition-colors hover:text-primary"
             >
               <Mail className="h-4 w-4 text-secondary" aria-hidden="true" />
-              astrales.spiritalite@gmail.com
+              astralis.spiritalite@gmail.com
             </a>
           </div>
 
