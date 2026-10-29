@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+.pnpm-store/
+
+# Build et artefacts
+dist/
+coverage/
+*.tsbuildinfo
+
+# Secrets et configuration locale
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Système
+.DS_Store
+
+# Outils
+.vscode/
+.idea/
+.vercel/
+
+# Maquettes et archives de travail
+_stitch_extract/
+_pkgcheck/
+Astralis-site.zip
+stitch_astranumeris_platform.zip
